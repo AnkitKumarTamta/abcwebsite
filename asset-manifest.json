@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abcwebsite/static/css/main.6e730ecc.css",
+    "main.js": "/abcwebsite/static/js/main.f9699c47.js",
+    "static/media/port_banner.jpg": "/abcwebsite/static/media/port_banner.8600a4afa3811fa452f7.jpg",
+    "static/media/oneRow.jpg": "/abcwebsite/static/media/oneRow.21483a3ba148d5e9202e.jpg",
+    "static/media/swarajfabrics.png": "/abcwebsite/static/media/swarajfabrics.18237d6a8f23f803fb21.png",
+    "index.html": "/abcwebsite/index.html",
+    "main.6e730ecc.css.map": "/abcwebsite/static/css/main.6e730ecc.css.map",
+    "main.f9699c47.js.map": "/abcwebsite/static/js/main.f9699c47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e730ecc.css",
+    "static/js/main.f9699c47.js"
+  ]
+}
